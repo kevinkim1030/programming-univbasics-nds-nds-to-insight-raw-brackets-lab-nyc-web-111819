@@ -5,7 +5,7 @@ def directors_totals(nds)
   result = {}
   index = 0 
   while index < nds.length do 
-    result << nds[0][:name]
+    result << nds[index][:name]
     
     index += 1 
   end
