@@ -9,6 +9,7 @@ def directors_totals(nds)
     
     index += 1 
   end
+  result
 end
   
   
@@ -28,7 +29,7 @@ end
   #
   #
   # Be sure to return the result at the end!
-  result
+
   
 
 # [{:name=>"Stephen Spielberg",
