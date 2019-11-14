@@ -18,12 +18,7 @@ def directors_totals(nds)
 end
   
   
-  # ss_movies = nds[0][:movies]
-  # ss_gross_total = 0 
-  # i = 0 
-  # while i < nds[0][:movies].length do 
-  #   ss_gross_total += ss_movies[i][:worldwide_gross]
-  #   i += 1 
+
  
   #
   # Use loops, variables and the accessing method, [], to loop through the NDS
