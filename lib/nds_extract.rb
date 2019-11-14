@@ -7,6 +7,7 @@ def directors_totals(nds)
   while index < nds.length do 
     
   end
+end
   
   
   # ss_movies = nds[0][:movies]
@@ -27,7 +28,7 @@ def directors_totals(nds)
   # Be sure to return the result at the end!
   result
   
-end
+
 # [{:name=>"Stephen Spielberg",
 #   :movies=>
 #   [{:title=>"Jaws",
